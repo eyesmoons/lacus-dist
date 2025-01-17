@@ -1,0 +1,8 @@
+hadoop/
+flink/flink-1.16.2.tar.gz
+mysql/data/
+redis/redis-data/
+lacus-frontend/dist.zip
+lacus-backend/flink-1.16.2.tar.gz
+lacus-backend/lacus-dist-*.0.0-all.tar.gz
+lacus-backend/lacus-flink-sql-app-*.0.0-jar-with-dependencies.jar
